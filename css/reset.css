@@ -49,3 +49,6 @@ button{
 .blind{
     display: none;
 }
+img,input,button{
+    vertical-align: middle;
+}
